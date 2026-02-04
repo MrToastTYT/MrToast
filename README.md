@@ -38,14 +38,10 @@ Also i'm creating mods on Mcreator
 ## Tech stack
 
 <p align="left">
-    
-    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/062df34c-34ea-4bd4-9eaf-ea516552cf31" />
-    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0a71186c-fc4b-4f26-a72d-3f549146656c" />
-    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d2e395c9-f8b7-4f82-bd66-53a46266c6b5" />
-    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/5ea1ec9f-8d37-4ee5-9cb5-a4e85a2ffdee" />
-    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/8ebf49ec-d8fd-4a1a-9ef0-2b934fdd5e55" />
-
-
+    <img src="img/tech-stack/figma.png" alt="Figma"/>
+    <img src="img/tech-stack/bash.png" alt="Bash"/>
+    https://github.com/MrToastTYT/dexoron/blob/gh-pages/img/tech-stack/javascript.png
+    https://github.com/MrToastTYT/dexoron/blob/gh-pages/img/tech-stack/python.png
 </p>
 
 **i'm learning Java and C++** <br>
