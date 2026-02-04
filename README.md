@@ -1,23 +1,92 @@
-<h1 align="center">Hi 👋, I'm MrToast</h1>
-<h3 align="center">I like cookies</h3>
 
-- ⚡ Fun fact **i like making mods at mcreator**
+# Hello, i'm MrToast
 
-<h3 align="left">Connect with me:</h3>
+I am creating content on youtube
+Also i'm creating mods on Mcreator
+
+## About me
+
+🌱 I’m currently learning Java and C++ <br>
+💬 I am searching for collaborators that can help me with my projeckts
+
+### My YouTube stats
+
 <p align="left">
-<a href="https://www.youtube.com/c/mrtoastoff" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrtoastoff" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/@mrtoastoff?sub_confirmation=1">
+        <img alt="youtube subscribers" title="Subscriber" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCyZJWrU3Z4Rges0O_T9a9LQ?color=%23a7c080&label=SUBSCRIBER&logo=video&logoColor=white&style=for-the-badge&labelColor=%232d353b"/>
+    </a> 
+    <a href="https://www.youtube.com/mrtoastoff">
+        <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCyZJWrU3Z4Rges0O_T9a9LQ?color=%23dbbc7f&logo=eye&logoColor=white&style=for-the-badge&labelColor=%232d353b"/>
+    </a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+### My GitHub stats
+
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="vertical-align:middle; margin: 5px"/></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40" style="vertical-align:middle; margin: 5px"/></a>
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" style="vertical-align:middle; margin: 5px"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="vertical-align:middle; margin: 5px"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="vertical-align:middle; margin: 5px"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="vertical-align:middle; margin: 5px"/></a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="vertical-align:middle; margin: 5px"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="vertical-align:middle; margin: 5px"/></a>
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" style="vertical-align:middle; margin: 5px"/></a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="vertical-align:middle; margin: 5px"/></a>
+    <a href="https://github.com/mrtoasttyt?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dexoron?color=%237fbbb3&labelColor=%232d353b&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+    <a href="https://github.com/mrtoasttyt?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dexoron?color=%23e69875&style=for-the-badge&labelColor=%232d353b&logo=star"/>
+    </a>
 </p>
+
+
+
+## Tech stack
+
+<p align="left">
+    <img src="img/tech-stack/linux.png" alt="Linux"/>
+    <img src="img/tech-stack/vscode.png" alt="VS Code"/>
+    <img src="img/tech-stack/figma.png" alt="Figma"/>
+    <img src="img/tech-stack/bash.png" alt="Bash"/>
+    <img src="img/tech-stack/git.png" alt="Git"/>
+    <img src="img/tech-stack/github.png" alt="GitHub"/>
+    <img src="img/tech-stack/gitlab.png" alt="GitLab"/>
+    <img src="img/tech-stack/html.png" alt="HTML5"/>
+    <img src="img/tech-stack/css.png" alt="CSS3"/>
+    <img src="img/tech-stack/javascript.png" alt="JavaScript"/>
+    <img src="img/tech-stack/typescript.png" alt="TypeScript"/>
+    <img src="img/tech-stack/react.png" alt="React"/>
+    <img src="img/tech-stack/tailwindcss.png" alt="TailwindCSS"/>
+    <img src="img/tech-stack/nodejs.png" alt="Node.js"/>
+    <img src="img/tech-stack/bun.png" alt="Bun"/>
+    <img src="img/tech-stack/vite.png" alt="Vite"/>
+    <img src="img/tech-stack/c.png" alt="C"/>
+    <img src="img/tech-stack/cpp.png" alt="C++"/>
+    <img src="img/tech-stack/python.png" alt="Python"/>
+</p>
+
+**i'm learning Java and C++** <br>
+
+
+
+## My PC
+
+**CPU:** Intel Core i7-8569U <br>
+**GPU:** Intel Iris Plus Graphics 655 <br>
+**RAM:** 16GB DDR5 <br>
+
+**OS:** MacOS <br>
+(btw i have trash pc)
+
+
+
+## Contact me
+
+**YouTube:** [https://www.youtube.com/@mrtoastoff](https://www.youtube.com/@mrtoastoff) <br>
+**GitHub:** [https://github.com/mrtoasttyt](https://github.com/mrtoasttyt) <br>
+**Discord:** @_toast <br>
+**Email:** januslol52@gmail.com <br>
+
+
+
+## My GitHub Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrtoasttyt&theme=everforest&hide_border=true&bg_color=0d1117&color=d3c6aa&line=2d353b&point=white" alt="Contrinbution Graph" />
+
+## Views of my GitHub profile
+
+<img src="https://count.getloli.com/@mrtoasttyt?name=Dexoron&theme=booru-helltaker&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
