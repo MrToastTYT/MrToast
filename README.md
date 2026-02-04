@@ -26,10 +26,10 @@ Also i'm creating mods on Mcreator
 
 <p align="left">
     <a href="https://github.com/mrtoasttyt?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dexoron?color=%237fbbb3&labelColor=%232d353b&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mrtoasttyt?color=%237fbbb3&labelColor=%232d353b&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
     <a href="https://github.com/mrtoasttyt?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dexoron?color=%23e69875&style=for-the-badge&labelColor=%232d353b&logo=star"/>
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mrtoasttyt?color=%23e69875&style=for-the-badge&labelColor=%232d353b&logo=star"/>
     </a>
 </p>
 
