@@ -86,7 +86,3 @@ Also i'm creating mods on Mcreator
 ## My GitHub Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrtoasttyt&theme=everforest&hide_border=true&bg_color=0d1117&color=d3c6aa&line=2d353b&point=white" alt="Contrinbution Graph" />
-
-## Views of my GitHub profile
-
-<img src="https://count.getloli.com/@mrtoasttyt?name=Dexoron&theme=booru-helltaker&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
