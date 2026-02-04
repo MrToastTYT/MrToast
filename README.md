@@ -38,25 +38,14 @@ Also i'm creating mods on Mcreator
 ## Tech stack
 
 <p align="left">
-    <img src="img/tech-stack/linux.png" alt="Linux"/>
-    <img src="img/tech-stack/vscode.png" alt="VS Code"/>
-    <img src="img/tech-stack/figma.png" alt="Figma"/>
-    <img src="img/tech-stack/bash.png" alt="Bash"/>
-    <img src="img/tech-stack/git.png" alt="Git"/>
-    <img src="img/tech-stack/github.png" alt="GitHub"/>
-    <img src="img/tech-stack/gitlab.png" alt="GitLab"/>
-    <img src="img/tech-stack/html.png" alt="HTML5"/>
-    <img src="img/tech-stack/css.png" alt="CSS3"/>
-    <img src="img/tech-stack/javascript.png" alt="JavaScript"/>
-    <img src="img/tech-stack/typescript.png" alt="TypeScript"/>
-    <img src="img/tech-stack/react.png" alt="React"/>
-    <img src="img/tech-stack/tailwindcss.png" alt="TailwindCSS"/>
-    <img src="img/tech-stack/nodejs.png" alt="Node.js"/>
-    <img src="img/tech-stack/bun.png" alt="Bun"/>
-    <img src="img/tech-stack/vite.png" alt="Vite"/>
-    <img src="img/tech-stack/c.png" alt="C"/>
-    <img src="img/tech-stack/cpp.png" alt="C++"/>
-    <img src="img/tech-stack/python.png" alt="Python"/>
+    
+    <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/062df34c-34ea-4bd4-9eaf-ea516552cf31" />
+   <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0a71186c-fc4b-4f26-a72d-3f549146656c" />
+    <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d2e395c9-f8b7-4f82-bd66-53a46266c6b5" />
+    <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5ea1ec9f-8d37-4ee5-9cb5-a4e85a2ffdee" />
+    <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8ebf49ec-d8fd-4a1a-9ef0-2b934fdd5e55" />
+
+
 </p>
 
 **i'm learning Java and C++** <br>
