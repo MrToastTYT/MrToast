@@ -36,13 +36,10 @@ Also i'm creating mods on Mcreator
 
 
 ## Tech stack
-
-<p align="left">
-    <img src="img/tech-stack/figma.png" alt="Figma"/>
-    <img src="img/tech-stack/bash.png" alt="Bash"/>
-    https://github.com/MrToastTYT/dexoron/blob/gh-pages/img/tech-stack/javascript.png
-    https://github.com/MrToastTYT/dexoron/blob/gh-pages/img/tech-stack/python.png
-</p>
+## Java
+## Phyton/Shell
+## Figma
+## Lua
 
 **i'm learning Java and C++** <br>
 
@@ -63,7 +60,7 @@ Also i'm creating mods on Mcreator
 
 **YouTube:** [https://www.youtube.com/@mrtoastoff](https://www.youtube.com/@mrtoastoff) <br>
 **GitHub:** [https://github.com/mrtoasttyt](https://github.com/mrtoasttyt) <br>
-**Discord:** @_toast <br>
+**Discord:** @_toasttyt <br>
 **Email:** januslol52@gmail.com <br>
 
 
